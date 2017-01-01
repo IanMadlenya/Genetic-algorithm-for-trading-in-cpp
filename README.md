@@ -47,3 +47,8 @@ When running the trading strategy with out-of-sample data, the return of the str
 ![plot](https://raw.githubusercontent.com/imanolperez/Genetic-algorithm-for-trading/master/results/returns_out_of_sample.jpg)
 
 The beta of the strategy for the out-of-sample data is 0.01, so it has the advantage of being market-neutral.
+
+
+## Conclusions
+
+The objective of this experiment is to see how one could use genetic algorithms to find trading strategies. A lot of improvement can be done, of course. For example, more complex strategies can be used, in order to obtain a richer final algorithm. Moreover, the fitness function could be improved as well, to include features you want the algorithm to have.
