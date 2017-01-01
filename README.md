@@ -44,7 +44,7 @@ The return of the algorithm in the training data (from 2007/03/02 to 2012/08/24)
 
 When running the trading strategy with out-of-sample data, the return of the strategy was 64%, while the S&P 500 only returned 47% in the same period. The following plot shows the evolution of the earnings of the strategy, when started with an initial capital of 1000$:
 
-![plot](https://raw.githubusercontent.com/imanolperez/Genetic-algorithm-for-trading/master/results/returns_out_of_sample.jpg)
+![plot](https://raw.githubusercontent.com/imanolperez/Genetic-algorithm-for-trading-in-cpp/master/results/returns_out_of_sample.jpg)
 
 The beta of the strategy for the out-of-sample data is 0.01, so it has the advantage of being market-neutral.
 
