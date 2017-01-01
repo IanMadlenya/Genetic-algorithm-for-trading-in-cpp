@@ -6,11 +6,11 @@ This code tries to show how to use genetic algorithms to create a simple trading
 
 Genetic algorithms simulate the evolution of a species. It starts with a random population of organisms, which represent algorithms. Then, after many generations the strongest algorithms survive. In general, genetic algorithms possess the following structure:
 
-1) Generate a random population of organisms
-2) Select the top performers, acording to a certain criteria (a fitness function is usually required here).
-3) Perform a crossover of the outperformers to produce new children.
-4) Apply a random mutation to some of the children. This way, we end up with a new generation of organisms.
-5) Repeat step 2), until the desired number of generations is achieved.
+1. Generate a random population of organisms
+2. Select the top performers, acording to a certain criteria (a fitness function is usually required here).
+3. Perform a crossover of the outperformers to produce new children.
+4. Apply a random mutation to some of the children. This way, we end up with a new generation of organisms.
+5. Repeat step 2), until the desired number of generations is achieved.
 
 ## The code
 
