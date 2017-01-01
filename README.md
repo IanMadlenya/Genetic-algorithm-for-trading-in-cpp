@@ -42,17 +42,8 @@ The 60% of the available data was used to run the genetic algorithm to select th
 
 The return of the algorithm in the training data (from 2007/03/02 to 2012/08/24) was 22%. In the same period, the return of the S&P 500 was -1%.
 
-When running the trading strategy with out-of-sample data, the return of the strategy was 64%, while the S&P 500 only returned 47% in the same period. The following plot shows the evolution of earnings of the strategy:
+When running the trading strategy with out-of-sample data, the return of the strategy was 64%, while the S&P 500 only returned 47% in the same period. The following plot shows the evolution of the earnings of the strategy, when started with an initial capital of 1000$:
 
 ![plot](https://raw.githubusercontent.com/imanolperez/Genetic-algorithm-for-trading/master/results/returns_out_of_sample.jpg)
 
-
-
-
-
-
-
-
-
-
-
+The beta of the strategy for the out-of-sample data is 0.01, so it has the advantage of being market-neutral.
