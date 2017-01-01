@@ -1,4 +1,4 @@
-# Genetic algorithms for trading
+# Genetic algorithms for trading in C++
 
 This code tries to show how to use genetic algorithms to create a simple trading strategy. It is intended as a proof of concept, rather than trying to provide a ready-to-use strategy. The historical data used is the following: [SP500.dat](https://github.com/imanolperez/Genetic-algorithm-for-trading/blob/master/SP500.dat). It is the closing prices of S&P 500 from 2006/12/18 to 2016/06/15, so almost 10 years.
 
